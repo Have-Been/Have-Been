@@ -2,7 +2,6 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello%20My%20World!&animation=twinkling&fontColor=ffffff&fontAlign=70&fontAlignY=43&fontSize=57&height=250)
-
 ## Hi there! My name is YuBin! 👋
 #### 안녕하세요! 제 이름은 오유빈입니다!
 현재 대학교에 재학중이며 웹 프론트엔드 개발자가 되기 위해 노력하고 있습니다 :)
@@ -32,7 +31,7 @@ havebeen4@naver.com
 <br/>
 <br/>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vktsi&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vktsi&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vktsi&show_icons=true&include_all_commits=true&bg_color=fff5&title_color=2E64FE&text_color=151515">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vktsi&layout=compact&bg_color=fff&title_color=2E64FE&text_color=151515">
 </p>
 </div>
