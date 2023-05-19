@@ -10,9 +10,11 @@
 그제보단 어제의 내가, 어제의 나보단 오늘의 내가 더 나은 사람이 되기를 희망합니다 🙂
 <br/>
 ##### 📪 Email
+<br/>
 havebeen4@naver.com
 <br/>
 ##### 💻 Once I've Used
+  <br/>
 <!--javascript-->
 <img src="https://img.shields.io/badge/JAVAScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <!--Html-->
