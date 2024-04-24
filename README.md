@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello%20My%20World!&animation=twinkling&fontColor=ffffff&fontAlign=70&fontAlignY=43&fontSize=57&height=250)
 ## Hi there! My name is YuBin! 👋
 #### 안녕하세요! 제 이름은 오유빈입니다!
-현재 대학교에 재학중이며 웹 프론트엔드 개발자가 되기 위해 노력하고 있습니다 :)
+현재 목표를 위해 공부 중이며 웹 프론트엔드 개발자가 되기 위해 노력하고 있습니다 :)
 <br/>
 그제보단 어제의 내가, 어제의 나보단 오늘의 내가 더 나은 사람이 되기를 희망합니다 🙂
 <br/>
