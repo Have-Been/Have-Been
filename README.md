@@ -8,8 +8,15 @@
 <br/>
 그제보단 어제의 내가, 어제의 나보단 오늘의 내가 더 나은 사람이 되기를 희망합니다 🙂
 <br/>
-#### 📪 Email
-havebeen4@naver.com
+
+
+#### 📪 Contact
+ <a href="mailto:havebeen4@naver.com">
+   <img src="https://img.shields.io/badge/Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=havebeen4@naver.com"/>
+</a>
+ <a href="mailto:oyb0426@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=oyb0426@gmail.com"/>
+</a>
 <br/>
   
 #### 💻 Once I've Used
@@ -26,12 +33,11 @@ havebeen4@naver.com
 <br/>
   
 #### 📝 Study
-  
-<a href="https://intriguing-capricorn-98a.notion.site/e2c581efe7e54c75b880bcbfcf5022f0" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://velog.io/@havebeen4"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@havebeen4"/></a>
 <br/>
 <br/>
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=havebeen&show_icons=true&include_all_commits=true&bg_color=fff5&title_color=2E64FE&text_color=151515">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=havebeen&layout=compact&bg_color=fff&title_color=2E64FE&text_color=151515">
+  
 </p>
 </div>
