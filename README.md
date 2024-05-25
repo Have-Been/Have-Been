@@ -7,6 +7,7 @@
 현재 목표를 위해 공부 중이며 웹 프론트엔드 개발자가 되기 위해 노력하고 있습니다 :)
 <br/>
 그제보단 어제의 내가, 어제의 나보단 오늘의 내가 더 나은 사람이 되기를 희망합니다 🙂
+Have a nice Been!
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHave-Been&count_bg=%2392B6FF&title_bg=%23397AFF&icon=github.svg&icon_color=%23E8E8E8&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
