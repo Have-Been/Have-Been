@@ -10,9 +10,6 @@
 <br>
 #### Have a nice Been! 
 <br/>
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=havebeen4.Have-Been)
-
 ﹏﹏﹏﹏﹏﹏﹏
 
 #### 📪 Contact
@@ -59,7 +56,7 @@
 <br/>
 <br/>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=havebeen&show_icons=true&include_all_commits=true&bg_color=fff5&title_color=2E64FE&text_color=151515">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=havebeen&show_icons=true&bg_color=fff5&title_color=2E64FE&text_color=151515">
  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=havebeen4)](https://solved.ac/havebeen4/)
 </p>
