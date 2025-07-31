@@ -11,7 +11,7 @@
 #### Have a nice Been! 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHave-Been&count_bg=%2392B6FF&title_bg=%23397AFF&icon=github.svg&icon_color=%23E8E8E8&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=havebeen4.Have-Been)
 
 ﹏﹏﹏﹏﹏﹏﹏
 
