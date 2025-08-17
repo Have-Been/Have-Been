@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello%20My%20World!&animation=twinkling&fontColor=ffffff&fontAlign=70&fontAlignY=43&fontSize=57&height=250)
 ## Hi there! My name is YuBin! 👋
 #### 안녕하세요! 제 이름은 오유빈입니다!
-고객이 사용하고, 고객이 피드백 주는 것이 가장 큰 기쁨인 프론트엔드 개발자입니다!
+고객이 사용하고, 고객이 피드백 주는 것이 가장 큰 기쁨인 개발자입니다!
 <br/>
 그제보단 어제의 내가, 어제의 나보단 오늘의 내가 더 나은 사람이 되기를 희망합니다 🙂
 <br>
